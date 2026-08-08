@@ -6,7 +6,37 @@
         xmlns:local="clr-namespace:LilysBookShop"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <DockPanel>
+        <!-- Menu bar -->
+        <Menu DockPanel.Dock="Top">
 
-    </Grid>
+            <!-- File Menu -->
+            <MenuItem Header="_File">
+                <MenuItem Header="_New" Click="New_Click"/>
+                <MenuItem Header="_Open" Click="Open_Click"/>
+                <Separator/>
+                <MenuItem Header="_Exit" Click="Exit_Click"/>
+            </MenuItem>
+
+            <!-- Window Menu -->
+            <MenuItem Header="_Window">
+                <MenuItem Header="_Minimize" Click="Minimize_Click"/>
+                <MenuItem Header="_Maximize" Click="Maximize_Click"/>
+            </MenuItem>
+
+            <!-- Help Menu -->
+            <MenuItem Header="_Help">
+                <MenuItem Header="_About" Click="About_Click"/>
+            </MenuItem>
+
+        </Menu>
+
+        <!-- Main content -->
+        <Grid>
+            <TextBlock Text="Hello WPF Menu!"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"/>
+        </Grid>
+    </DockPanel>
 </Window>

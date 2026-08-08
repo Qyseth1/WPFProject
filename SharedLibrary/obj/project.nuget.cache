@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "AnOyh/+K0rw=",
+  "dgSpecHash": "Ta6HSQiOhUY=",
   "success": true,
   "projectFilePath": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\SharedLibrary\\SharedLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.10\\microsoft.extensions.dependencyinjection.10.0.10.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.10\\microsoft.extensions.dependencyinjection.abstractions.10.0.10.nupkg.sha512"
+  ],
   "logs": []
 }

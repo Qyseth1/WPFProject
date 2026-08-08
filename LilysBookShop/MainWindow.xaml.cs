@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using LilysBookShop.ViewModels;
+using System.Windows;
 
 namespace LilysBookShop
 {
@@ -7,9 +8,16 @@ namespace LilysBookShop
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
+        public MainWindow(MainViewModel viewModel)
         {
             InitializeComponent();
+
+            DataContext = viewModel;
+        }
+
+        private void New()
+        {
+            // skapa nytt dokument
         }
     }
 }

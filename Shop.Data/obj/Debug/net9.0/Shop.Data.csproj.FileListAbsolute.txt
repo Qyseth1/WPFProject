@@ -1,0 +1,11 @@
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\Shop.Data\bin\Debug\net9.0\Shop.Data.deps.json
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\Shop.Data\bin\Debug\net9.0\Shop.Data.dll
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\Shop.Data\bin\Debug\net9.0\Shop.Data.pdb
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\Shop.Data\obj\Debug\net9.0\Shop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\Shop.Data\obj\Debug\net9.0\Shop.Data.AssemblyInfoInputs.cache
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\Shop.Data\obj\Debug\net9.0\Shop.Data.AssemblyInfo.cs
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\Shop.Data\obj\Debug\net9.0\Shop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\Shop.Data\obj\Debug\net9.0\Shop.Data.dll
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\Shop.Data\obj\Debug\net9.0\refint\Shop.Data.dll
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\Shop.Data\obj\Debug\net9.0\Shop.Data.pdb
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\Shop.Data\obj\Debug\net9.0\ref\Shop.Data.dll
