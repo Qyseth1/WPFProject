@@ -1,6 +1,5 @@
 ﻿using SharedLibrary.Commands;
 using SharedLibrary.Interfaces.Services;
-using System.Windows;
 using System.Windows.Input;
 
 namespace LilysBookShop.ViewModels

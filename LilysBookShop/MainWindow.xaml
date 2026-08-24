@@ -12,31 +12,31 @@
 
             <!-- File Menu -->
             <MenuItem Header="_File">
-                <MenuItem Header="_New" Click="New_Click"/>
-                <MenuItem Header="_Open" Click="Open_Click"/>
+                <MenuItem Header="_New" Command="{Binding NewCommand}"/>
+                <MenuItem Header="_Open" Command="{Binding OpenCommand}"/>
                 <Separator/>
-                <MenuItem Header="_Exit" Click="Exit_Click"/>
+                <MenuItem Header="_Exit" Command="{Binding SaveCommand}"/>
             </MenuItem>
 
-            <!-- Window Menu -->
+            <!-- Window Menu --><!--
             <MenuItem Header="_Window">
                 <MenuItem Header="_Minimize" Click="Minimize_Click"/>
                 <MenuItem Header="_Maximize" Click="Maximize_Click"/>
-            </MenuItem>
+            </MenuItem>-->
 
             <!-- Help Menu -->
             <MenuItem Header="_Help">
-                <MenuItem Header="_About" Click="About_Click"/>
+                <MenuItem Header="_About" Command="{Binding AboutCommand}"/>
             </MenuItem>
 
         </Menu>
 
         <!-- Main content -->
         <Grid>
-            <TextBlock Text="Hello WPF Menu!"
+            <TextBlock Text="Välkommen till Lilys Bookshop!"
                        HorizontalAlignment="Center"
-                       VerticalAlignment="Center"
-                       FontSize="20"/>
+                       VerticalAlignment="Top"
+                       FontSize="15"/>
         </Grid>
     </DockPanel>
 </Window>

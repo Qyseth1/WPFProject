@@ -1,5 +1,7 @@
 ﻿using LilysBookShop.ViewModels;
 using Microsoft.Extensions.DependencyInjection;
+using SharedLibrary.Interfaces.Services;
+using SharedLibrary.Service;
 using System.Windows;
 
 namespace LilysBookShop
@@ -25,6 +27,8 @@ namespace LilysBookShop
         {
             services.AddSingleton<MainWindow>();
             services.AddSingleton<MainViewModel>();
+
+            services.AddSingleton<IMessageService, MessageService>();
         }
 
 

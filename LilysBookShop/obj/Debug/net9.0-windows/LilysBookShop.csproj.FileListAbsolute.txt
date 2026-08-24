@@ -19,3 +19,8 @@ C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\LilysBookShop\obj\Debug\net9.0-window
 C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\LilysBookShop\obj\Debug\net9.0-windows\LilysBookShop.genruntimeconfig.cache
 C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\LilysBookShop\obj\Debug\net9.0-windows\ref\LilysBookShop.dll
 C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\LilysBookShop\obj\Debug\net9.0-windows\LilysBookShop.csproj.AssemblyReference.cache
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\LilysBookShop\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\LilysBookShop\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\LilysBookShop\bin\Debug\net9.0-windows\SharedLibrary.dll
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\LilysBookShop\bin\Debug\net9.0-windows\SharedLibrary.pdb
+C:\Users\Pc\OneDrive\Skrivbord\WPFProjects\LilysBookShop\obj\Debug\net9.0-windows\LilysBoo.3FBAA047.Up2Date

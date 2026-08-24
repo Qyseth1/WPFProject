@@ -3,26 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\LilysBookShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|c:\\users\\pc\\onedrive\\skrivbord\\wpfprojects\\lilysbookshop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|c:\\users\\pc\\onedrive\\skrivbord\\wpfprojects\\lilysbookshop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|c:\\users\\pc\\onedrive\\skrivbord\\wpfprojects\\lilysbookshop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ACE53EF-A0D7-494C-829D-37D25D642AD1}|..\\SharedLibrary\\SharedLibrary.csproj|c:\\users\\pc\\onedrive\\skrivbord\\wpfprojects\\sharedlibrary\\commands\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|c:\\users\\pc\\onedrive\\skrivbord\\wpfprojects\\lilysbookshop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|c:\\users\\pc\\onedrive\\skrivbord\\wpfprojects\\lilysbookshop\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACE53EF-A0D7-494C-829D-37D25D642AD1}|..\\SharedLibrary\\SharedLibrary.csproj|c:\\users\\pc\\onedrive\\skrivbord\\wpfprojects\\sharedlibrary\\commands\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|c:\\users\\pc\\onedrive\\skrivbord\\wpfprojects\\lilysbookshop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|c:\\users\\pc\\onedrive\\skrivbord\\wpfprojects\\lilysbookshop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3ACE53EF-A0D7-494C-829D-37D25D642AD1}|..\\SharedLibrary\\SharedLibrary.csproj|c:\\users\\pc\\onedrive\\skrivbord\\wpfprojects\\sharedlibrary\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|c:\\users\\pc\\onedrive\\skrivbord\\wpfprojects\\lilysbookshop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2FFFA1D7-1BE6-453E-BED4-D9036B0C2E07}|LilysBookShop.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3ACE53EF-A0D7-494C-829D-37D25D642AD1}|..\\SharedLibrary\\SharedLibrary.csproj|c:\\users\\pc\\onedrive\\skrivbord\\wpfprojects\\sharedlibrary\\service\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -46,7 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\LilysBookShop\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\LilysBookShop\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-24T22:23:32.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Command.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\SharedLibrary\\Commands\\Command.cs",
               "RelativeDocumentMoniker": "..\\SharedLibrary\\Commands\\Command.cs",
@@ -54,72 +71,38 @@
               "RelativeToolTip": "..\\SharedLibrary\\Commands\\Command.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T20:08:43.696Z"
+              "WhenOpened": "2026-08-07T20:08:43.696Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\LilysBookShop\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
               "ToolTip": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\LilysBookShop\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T19:49:18.398Z"
+              "WhenOpened": "2026-08-07T19:49:18.398Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\LilysBookShop\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\LilysBookShop\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-08-05T21:55:15.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\LilysBookShop\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\LilysBookShop\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T21:20:11.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\LilysBookShop\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\LilysBookShop\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T17:21:21.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\SharedLibrary\\DependencyInjection\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "..\\SharedLibrary\\DependencyInjection\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\SharedLibrary\\DependencyInjection\\DependencyInjection.cs",
-              "RelativeToolTip": "..\\SharedLibrary\\DependencyInjection\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T15:54:21.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MessageService.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\SharedLibrary\\Service\\MessageService.cs",
               "RelativeDocumentMoniker": "..\\SharedLibrary\\Service\\MessageService.cs",
@@ -131,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IMessageService.cs",
               "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\SharedLibrary\\Interfaces\\Services\\IMessageService.cs",
               "RelativeDocumentMoniker": "..\\SharedLibrary\\Interfaces\\Services\\IMessageService.cs",
@@ -140,6 +123,51 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-04T21:17:16.012Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\LilysBookShop\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\LilysBookShop\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T17:21:21.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\LilysBookShop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\LilysBookShop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T21:20:11.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\SharedLibrary\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\SharedLibrary\\DependencyInjection\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Skrivbord\\WPFProjects\\SharedLibrary\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\SharedLibrary\\DependencyInjection\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T15:54:21.507Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -15,9 +15,6 @@ namespace LilysBookShop
             DataContext = viewModel;
         }
 
-        private void New()
-        {
-            // skapa nytt dokument
-        }
+       
     }
 }
