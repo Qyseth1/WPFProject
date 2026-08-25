@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio generated files
+*.cache
+*.csproj.user
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Rider / JetBrains
+.idea/
+
+# Generated documentation/layout
+*.backup.json
+
+# OS
+.DS_Store
+Thumbs.db
